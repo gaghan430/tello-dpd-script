@@ -1,0 +1,27 @@
+{
+  "name": "tello-dpd-script",
+  "version": "1.0.0",
+  "description": "Custom Deployd Event API Domain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaghan430/tello-dpd-script.git"
+  },
+  "keywords": [
+    "deployd",
+    "event",
+    "api",
+    "custom",
+    "event",
+    "api"
+  ],
+  "author": "dodik gaghan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaghan430/tello-dpd-script/issues"
+  },
+  "homepage": "https://github.com/gaghan430/tello-dpd-script#readme"
+}
