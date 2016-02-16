@@ -34,8 +34,7 @@
   "_from": "git://github.com/gaghan430/tello-dpd-script.git",
   "_resolved": "git://github.com/gaghan430/tello-dpd-script.git#9ccba3e8b733e3e8fce6896cf350f041f4c533e6",
   "dependencies": {
-    "randomstring": "^1.1.4",
-    "underscore": "^1.8.3",
+    "app-root-path": "^1.0.0",
     "validator": "^4.8.0"
   }
 }
