@@ -2,7 +2,7 @@
  * @Author: Dodik Gaghan
  * @Date:   2016-02-15 11:52:33
  * @Last Modified by:   Dodik Gaghan
- * @Last Modified time: 2016-02-16 14:57:10
+ * @Last Modified time: 2016-02-18 22:21:19
  */
 
 'use strict';
@@ -24,7 +24,6 @@ Script.prototype.run = function(ctx, domain, fn) {
 		domain.query = ctx.query;
 		domain.body = ctx.body;
 		domain.reqlib = appRoot.require;
-		// domain.helper = appRoot.require('/lib/helper.js')(ctx, domain);
 
 		domain.require = function(module) {
 			return require(module);
